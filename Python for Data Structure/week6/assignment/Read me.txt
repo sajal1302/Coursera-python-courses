@@ -1,0 +1,1 @@
+1.While running the assignment10.2 write "mbox-short.txt" to check your code.
