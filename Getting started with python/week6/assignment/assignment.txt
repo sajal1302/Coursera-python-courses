@@ -7,4 +7,4 @@ def computepay(hours,rate):
  return p
 hours = float(raw_input("Enter worked hours: "))
 rate = float(raw_input("Enter Pay rate per hour: "))
-print computepay(hours,rate)
+print ("Pay "+str(computepay(hours,rate)))ss
